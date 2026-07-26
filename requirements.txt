@@ -1,0 +1,27 @@
+# ============================================
+# Air Quality Prediction - Kathmandu
+# Project dependencies
+# ============================================
+ 
+# Notebook / Environment 
+ipykernel
+jupyter
+ 
+# Data handling 
+pandas
+numpy
+requests
+python-dotenv
+openpyxl
+ 
+# Machine Learning 
+scikit-learn
+xgboost
+lightgbm
+ 
+# Explainability
+shap
+ 
+# Visualization 
+matplotlib
+seaborn

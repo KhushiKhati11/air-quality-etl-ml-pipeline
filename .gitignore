@@ -1,0 +1,9 @@
+#virtual environment
+air_venv/
+
+#python cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+.env
