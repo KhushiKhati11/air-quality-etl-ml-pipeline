@@ -46,7 +46,7 @@ Save as CSV
 air-quality-etl-ml-pipeline/
 ├── air_venv/              # virtual environment (not committed)
 ├── .env                   # API keys (not committed)
-├── dataset/
+├── data/
 │   ├── raw/                # raw pulls from OpenAQ (not committed)
 │   └── processed/          # cleaned/merged data (not committed)
 ├── src/
