@@ -1,0 +1,15 @@
+{
+  "model": "XGBoost (delta target)",
+  "validation": "TimeSeriesSplit (5 folds)",
+  "xgb_avg_rmse": 13.54008424784293,
+  "xgb_avg_r2": 0.7717529481408283,
+  "rf_delta_avg_rmse": 15.683858996054855,
+  "rf_delta_avg_r2": 0.6690107110073397,
+  "persistence_avg_rmse": 14.511115226016543,
+  "persistence_avg_r2": 0.7255070407611046,
+  "hyperparameters": {
+    "n_estimators": 300,
+    "learning_rate": 0.05,
+    "max_depth": 5
+  }
+}
